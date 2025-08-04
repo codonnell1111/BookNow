@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <h1>📚 BookNow 📚</h1>
-      <p>{serverStatus}</p>
       <BookSchedule />
     </div>
   );
